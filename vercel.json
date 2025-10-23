@@ -1,0 +1,5 @@
+{
+  "buildCommand": "parcel build index.html",
+  "outputDirectory": "dist",
+  "devCommand": "parcel index.html --port 1235"
+}
